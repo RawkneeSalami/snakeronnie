@@ -1,0 +1,28 @@
+LINKED LIST INFO: BETER THAN ARRAYS::
+https://www.baeldung.com/java-linkedlist
+
+Reader Method:
+https://docs.oracle.com/javase/7/docs/api/java/io/Console.html#reader()
+
+https://www.baeldung.com/java-console-input-output
+https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html
+
+For the snakes body:
+https://stackoverflow.com/questions/4927858/java-util-linked-list-how-to-find-next
+
+For the colors in ANSI format:
+https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
+
+
+https://stackoverflow.com/questions/2760995/arraylist-initialization-equivalent-to-array-initialization
+
+For cell checking:
+https://stackoverflow.com/questions/1128723/how-do-i-determine-whether-an-array-contains-a-particular-value-in-java
+
+For clearing the Command terminal ever move: 
+
+https://stackoverflow.com/questions/9541237/i-made-a-simple-game-in-java-is-it-possible-to-refresh-the-console-so-that-eve
+https://stackoverflow.com/questions/1682212/clear-screen-option-in-java
+
+FORE EACH LOOP for arrays/lists: 
+https://www.programiz.com/java-programming/enhanced-for-loop
